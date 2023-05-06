@@ -1,5 +1,5 @@
 #
-# CI build that assembles artifacts and runs tests.
+# CI build that assembles artifacts and runs tests.ok
 # If validation is successful this workflow releases from the main dev branch.
 #
 # - skipping CI: add [skip ci] to the commit message
