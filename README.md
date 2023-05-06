@@ -1,4 +1,4 @@
-# Coral
+## Coral
 
 <p align="center">
  <img src="docs/coral-logo.jpg" width="400" title="Coral Logo">
